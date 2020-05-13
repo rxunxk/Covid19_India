@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid19 India</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="active">Active</string>
+    <string name="recovered">Recovered</string>
+    <string name="Deaths">Deceased</string>
+    <string name="lastUpdate">Last Updated</string>
+</resources>
